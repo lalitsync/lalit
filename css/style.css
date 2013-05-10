@@ -25,5 +25,40 @@ text-align:justify;
 border-color: rgba(0, 0, 0, 0.398438);
 border-style: solid;
 border-width: 1px;
-box-shadow: #B2B9C9 2px 0px 2px -2
+box-shadow: #B2B9C9 2px 0px 2px -2;
+padding-top: 80px;
+margin-top:10px;
+}
+
+
+div.Form-holder fieldset
+{
+-webkit-border-radius:5px;
+}
+
+.placeholder 
+{
+width:410px;
+}
+
+div.Form-holder fieldset li
+{
+display:block;
+width:400px;
+}
+label.label 
+{
+font-size: 20px;
+}
+
+
+input#handle , button.go
+{
+background:#EEE;
+
+border:1px solid #e7e7e7;
+border-color: rgba(0, 0, 0, 0.398438);
+height:30px;
+-webkit-border-radius:5px;
+
 }
