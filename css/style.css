@@ -1,0 +1,29 @@
+/*
+Css-Template Created for a Test App.
+Author: Lalit Kumawat
+Version : 1.1
+*/
+
+html, body, div
+{
+margin:auto;
+display:block;
+font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+font-size: 11px;
+}
+
+body.app-wrapper {
+background:#EDEFF4;
+}
+
+
+div.content
+{
+width:900px;
+margin:auto;
+text-align:justify;
+border-color: rgba(0, 0, 0, 0.398438);
+border-style: solid;
+border-width: 1px;
+box-shadow: #B2B9C9 2px 0px 2px -2
+}
